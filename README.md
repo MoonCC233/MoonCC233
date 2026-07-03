@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu;一名来自江苏扬州的高二学生;高考在即!学业至上!;爱玩Minecraft&ADOFAI~)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是一名大一牲;爱玩Minecraft&ADOFAI~)
 
 <h1 align="center">访客数</h1>
 
@@ -21,7 +21,7 @@
 
 - My websites
 
-- [My Homepage](https://linktr.ee/niufuyu) https://linktr.ee/niufuyu
+- [https://linktr.ee/niufuyu](https://linktr.ee/MoonCC) https://linktr.ee/MoonCC
 
 - [MPT Introduction](https://mpt-introduction.vercel.app/) https://mpt-introduction.vercel.app/
 
@@ -29,20 +29,18 @@
 
 - [Lunar Town Blog](https://mooncc.cn) https://mooncc.cn/ or https://blogs.niufuyu.top/
 
-- [New CDN](https://cdn.mooncc.cn)
+- [New CDN](https://cdn.mooncc.cn) https://cdn.mooncc.cn
 
-- [Introduce me](https://niufuyu.top/) https://niufuyu855.github.io/ or https://niufuyu.top/
-
-- [LunarTeam](https://lunarteam.top) https://lunarteam.top/
+- [Introduce me](https://niufuyu.top/) https://niufuyu.top/
 
 ---
-
+<!--
 #### Languages
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=NiuFuyu855&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!--  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=NiuFuyu855&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>  -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
@@ -50,7 +48,7 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<!--  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
@@ -58,12 +56,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>  -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- languages:end -->
-
+<!--
 #### Frameworks and Tools
 
 <!-- tools:start -->

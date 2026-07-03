@@ -19,7 +19,7 @@
 
 - My websites
 
-- [https://linktr.ee/niufuyu](https://linktr.ee/MoonCC) https://linktr.ee/MoonCC
+- [About me](https://linktr.ee/MoonCC) https://linktr.ee/MoonCC
 
 - [MPT Introduction](https://mpt-introduction.vercel.app/) https://mpt-introduction.vercel.app/
 

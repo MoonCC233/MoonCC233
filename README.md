@@ -96,7 +96,7 @@
 
 ---
 
-###Games
+### Games
 ![原神卡片](https://hoyocard.qhy04.com/gs/rand/312985231.png)
 ![星铁卡片](https://hoyocard.qhy04.com/sr/rand/312985231.png)
 ![绝区零卡片](https://hoyocard.qhy04.com/zzz/rand/312985231.png)

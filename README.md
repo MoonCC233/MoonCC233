@@ -1,4 +1,4 @@
-<img src="https://ip-info.mooncc.cn/svg?s=欢迎访问MoonCC233的Gayhub主页~" alt="IP签名档" />
+<code><img src="https://ip-info.mooncc.cn/svg?s=欢迎访问MoonCC233的Gayhub主页~" alt="IP签名档" /></code>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是一名大一牲;爱玩Minecraft&ADOFAI~)
 

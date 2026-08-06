@@ -1,5 +1,3 @@
-![IP签名档](https://ip-info.mooncc.cn/svg?s=欢迎访问MoonCC233的Gayhub主页~)
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是一名大一牲;爱玩Minecraft&ADOFAI~)
 
 <h1 align="center">访客数</h1>

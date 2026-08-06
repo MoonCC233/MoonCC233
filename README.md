@@ -60,4 +60,6 @@
 
 ### Github Achievements
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/mooncc233?lang=zh)](https://ghfind.com/u/mooncc233?ref=badge)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoonCC233&theme=synthwave&date_format=%5BY.%5Dn.j)

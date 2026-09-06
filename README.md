@@ -25,7 +25,7 @@
 | ----- | ----- |
 | [About me](https://linktr.ee/MoonCC) | https://linktr.ee/MoonCC |
 | [MPT](https://mpt.mooncc.cn) | https://mpt.mooncc.cn/ or https://mpteam.top/ |
-| [Blog](https://mooncc.cn) | https://mooncc.cn/ |
+| [Blog](https://blog.mooncc.cn) | https://mooncc.cn/ |
 | [Phrolova](https://phrolova.mooncc.cn/) | https://phrolova.mooncc.cn/ |
 
 ---

@@ -14,7 +14,7 @@
 
 - I’m interested in programming. 👀
 
-<p><a href="https://mooncc.cn/" target="_blank"><img src="https://img.shields.io/badge/Blog-MoonCC Blog-%23333?style=for-the-badge" alt="Blog" /></a>
+<p><a href="https://blog.mooncc.cn/" target="_blank"><img src="https://img.shields.io/badge/Blog-MoonCC Blog-%23333?style=for-the-badge" alt="Blog" /></a>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
 
 ---
